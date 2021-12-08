@@ -1,0 +1,12 @@
+.maps{
+    opacity: 75%;
+    border: 50%;
+    position: relative;
+    left: 250px;
+    bottom: 500px;
+}
+#img/{
+    position: relative;
+    
+    opacity: 50%;
+}

@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    height: 100%;
+  }
+  
+  .App-map {
+    height: 50%;
+    width: 50%;
+    opacity:50%
+  }
+  
